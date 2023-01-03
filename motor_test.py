@@ -1,4 +1,3 @@
-@@ -0,0 +1,65 @@
 import RPi.GPIO as GPIO
 import time
 
